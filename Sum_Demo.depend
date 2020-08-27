@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1598537265 source:c:\users\pavan\documents\codeblocks\sum_demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sum.h"
+	"test_sum.h"
+
+1598535573 source:c:\users\pavan\documents\codeblocks\sum_demo\src\sum.c
+
+1598538271 c:\users\pavan\documents\codeblocks\sum_demo\inc\sum.h
+
+1598536048 c:\users\pavan\documents\codeblocks\sum_demo\test\test_sum.h
+
+1596710268 source:c:\users\pavan\documents\codeblocks\sum_demo\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 c:\users\pavan\documents\codeblocks\sum_demo\unity\unity.h
+	"unity_internals.h"
+
+1596710268 c:\users\pavan\documents\codeblocks\sum_demo\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1598537184 source:c:\users\pavan\documents\codeblocks\sum_demo\test\test_sum.c
+	"sum.h"
+	"unity.h"
+
